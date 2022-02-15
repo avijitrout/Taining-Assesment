@@ -1,0 +1,153 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Login feature",
+        "description": "",
+        "id": "feature-to-logining-in;login-feature",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3225339000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Open the chrome and launch the application",
+            "match": {
+              "location": "Steps.open_the_Firefox_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2163492300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "Steps.enter_the_Username_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2115473200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Click on login",
+            "match": {
+              "location": "Steps.click_on_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 688003400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Close the browser",
+            "match": {
+              "location": "Steps.Close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "Add to cart and remove from art",
+        "description": "",
+        "id": "feature-to-logining-in;add-to-cart-and-remove-from-art",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1521719400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Open the chrome and launch the application",
+            "match": {
+              "location": "Steps.open_the_Firefox_and_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2171227400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Enter the Username and Password",
+            "match": {
+              "location": "Steps.enter_the_Username_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2101568600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click on login",
+            "match": {
+              "location": "Steps.click_on_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2046840500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Add item to cart",
+            "match": {
+              "location": "Steps.Add_Item_Cart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3173961500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Remove From Cart",
+            "match": {
+              "location": "Steps.remove_item_fromcart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 688068700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Close the browser",
+            "match": {
+              "location": "Steps.Close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "feature to Logining in",
+    "description": "",
+    "id": "feature-to-logining-in",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/0023ZN744/eclipse-workspace/CucumberAssignment/src/test/resources/Features/Uasecase.Feature",
+    "tags": []
+  }
+]
